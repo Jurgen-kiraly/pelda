@@ -17,7 +17,11 @@
 .card-body p{
   text-align: justify;
 }
+p{
+  height: 100%;
+}
 
-a img{
-  height: 40px;
+h1{
+  height: auto;
+  width: auto;
 }
